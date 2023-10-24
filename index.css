@@ -1,0 +1,25 @@
+.container{
+    background-color:white;
+    color:black;
+    height:100vh;
+    text-align: center;
+    background-size:cover;
+}
+.navbar {
+    display:flex;
+    flex:row;
+    height: 8vh;
+    width:100vw;
+    background-color:pink;
+    color:black; 
+    justify-content: space-between;
+    
+
+    
+}
+.navbar2{
+    display: flex;
+    flex-direction: row;  
+    color:white;
+    padding:25px;
+}
